@@ -5,6 +5,10 @@ This project showcases my skills, projects, and journey as a **Front-End Web Dev
 
 ---
 
+<p align="center">
+  <img src="assets/profile.jpg" alt="Muhammad Abbas" width="180" style="border-radius: 50%;" />
+</p>
+
 ## 👨‍💻 About Me
 
 Hi, I’m **Muhammad Abbas**, a passionate **Front-End Developer, Python, C++** with strong foundations in **Problem Solving**, and modern UI practices.  
@@ -98,4 +102,5 @@ Your support motivates me to build more amazing projects!
 ---
 
 **© 2025 Muhammad Abbas | Front-End Developer**
+
 
