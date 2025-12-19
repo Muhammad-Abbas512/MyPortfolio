@@ -1,4 +1,4 @@
-# 🌐 Muhammad Abbas — Front-End Developer Portfolio
+#  Muhammad Abbas — Portfolio
 
 Welcome to my personal portfolio.  
 This project showcases my skills, projects, and journey as a **Front-End Web Developer** focused on building modern, responsive, and user-friendly web interfaces.
@@ -18,8 +18,8 @@ I enjoy turning ideas into visually appealing and functional web experiences and
 
 ## 🚀 Live Portfolio
 
-🔗 **Live Demo:** [View Portfolio](https://your-portfolio-link.com)  
-📂 **GitHub Repository:** [Portfolio Source Code](https://github.com/your-username/portfolio)
+🔗 **Live Demo:** [View Portfolio](https://muhammad-abbas512.github.io/MyPortfolio/)  
+📂 **GitHub Repository:** [Portfolio Source Code](https://github.com/muhammad-abbas512/MyPortfolio)
 
 ---
 
@@ -81,7 +81,7 @@ Built using modern CSS techniques and media queries.
 ## 🤝 Connect With Me
 
 - 📧 Email: **soomromuhammadabbas671@gmail.com**
-- 💼 GitHub: [https://github.com/your-username](https://github.com/your-username)
+- 💼 GitHub: [https://github.com/your-username](https://github.com/Muhammad-Abbas512)
 - 🌍 Location: Pakistan (Open to Remote Opportunities)
 
 ---
@@ -98,3 +98,4 @@ Your support motivates me to build more amazing projects!
 ---
 
 **© 2025 Muhammad Abbas | Front-End Developer**
+
